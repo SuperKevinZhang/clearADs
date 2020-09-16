@@ -3,6 +3,9 @@
 
 安装步骤
 * 下载文件夹
+```
+    git clone https://github.com/SuperKevinZhang/clearADs.git
+```
 * 打开chrome浏览器，输入地址栏 chrome://extensions/
 * 点击按钮”加载已解压的扩展程序“
 * 选择下载的文件夹 clearADs，点击确定
